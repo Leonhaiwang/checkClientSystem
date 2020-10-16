@@ -1,0 +1,24 @@
+{
+  "name": "kfzxbbb",
+  "version": "0.1.0",
+  "private": true,
+  "publicPath":"./",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "element-ui": "^2.13.2",
+    "file-saver": "^2.0.2",
+    "qrcodejs2": "^0.0.2",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "xlsx": "^0.16.8"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
